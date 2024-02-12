@@ -15,6 +15,9 @@
     "src",
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Charlie Kassel <ck@charliekassel.com>",
   "repository": {
     "type": "git",
